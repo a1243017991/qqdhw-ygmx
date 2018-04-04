@@ -1,0 +1,1 @@
+document.writeln("<a href='http://www.edianyun.cn/' target='_blank'><img src='https://img.alicdn.com/imgextra/i1/1032334477/TB2bGP3kFXXXXbDXpXXXXXXXXXX_!!1032334477.png' width='468' height='60' border=0 alt=''></a>");
